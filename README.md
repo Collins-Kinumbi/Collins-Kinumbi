@@ -2,7 +2,10 @@
 
 ## 💻 MERN Stack Developer | 📚 Self-Taught Engineer | 🚀 Lifelong Learner
 
-[![Coding](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)](https://camo.githubusercontent.com/c4cf42483c68dc57e2a5c52dbcc759beacfc89e701120ee4a5d1ef9bb01c4eb9/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f6465267765696768743d3730302673697a653d32342670617573653d3130303026636f6c6f723d3346383445352677696474683d343335266c696e65733d5765622b446576656c6f7065722b2537432b52656163742b2537432b4e6f64653b50617373696f6e6174652b61626f75742b4275696c64696e6721)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3F84E5&width=435&lines=Web+Developer+%7C+React+%7C+Node.js+Learner;Passionate+about+Building+Web+Experiences!" alt="Typing SVG" />Add commentMore actions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3F84E5&width=435&lines=Web+Developer+%7C+React+%7C+Node;Passionate+about+Building!" alt="Typing SVG" />
+</p>)
 
 Welcome to my GitHub profile! I'm Collins Kinumbi, a passionate full-stack developer focused on building robust and scalable web applications. My current tech stack includes the **MERN stack** (MongoDB, Express, React, Node.js), and I'm constantly exploring new tools to sharpen my skills.
 
