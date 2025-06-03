@@ -3,7 +3,6 @@
 ## 💻 MERN Stack Developer | 📚 Self-Taught Engineer | 🚀 Lifelong Learner
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3F84E5&width=435&lines=Web+Developer+%7C+React+%7C+Node.js+Learner;Passionate+about+Building+Web+Experiences!" alt="Typing SVG" />Add commentMore actions
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=3F84E5&width=435&lines=Web+Developer+%7C+React+%7C+Node;Passionate+about+Building!" alt="Typing SVG" />
 </p>)
 
